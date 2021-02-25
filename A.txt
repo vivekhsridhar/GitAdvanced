@@ -1,5 +1,3 @@
 AAA
 aaa
 BBB
-bbb
-CCC
